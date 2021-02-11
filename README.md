@@ -26,21 +26,10 @@
 
 ### vmWare | VirtualBox
 
-## PhpStorm
+### PhpStorm
 
-# EDI
+### Visual Studio Code
 
-## PhpStorm
+### Sublime
 
-## Visual Studio Code
-
-```
-
-/usr/local/etc/httpd/httpd.conf
-Include /my/dev/projects/httpd-vhosts.conf
-
-cp /usr/local/etc/httpd/extra/httpd-vhosts.conf /my/dev/projects/httpd-vhosts.conf
-
-/etc/hosts
-
-```
+### Slack
