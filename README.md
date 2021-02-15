@@ -32,7 +32,9 @@
 
 ### Docker
 
-### Git
+### Git | Github | GitLab | Bitbucket
+
+### Tower Git | GitKraken | Fork
 
 ### Composer
 
@@ -45,8 +47,6 @@
 ### Sublime
 
 ### Slack
-
-### Tower Git | GitKraken
 
 ### TablePlus
 
@@ -62,7 +62,7 @@
 
 ### GIMP
 
-### Zeplin | Figma | Adobe XD
+### Zeplin | Sketch | Figma | Adobe XD
 
 ### Bootstrap
 
@@ -78,7 +78,29 @@
 
 ### Firebase
 
+### Sentry
+
+# Monitoring
+
+### Grafana
+
+### Prometheus
+
+### NewRelic
+
+# Project Management
+
+### Jira
+
 # DevOps
+
+https://www.simplilearn.com/tutorials/devops-tutorial/devops-tools
+
+https://raygun.com/blog/best-devops-tools/
+
+https://www.guru99.com/devops-tools.html
+
+https://hackr.io/blog/what-is-devops
 
 https://phoenixnap.com/blog/devops-roles-responsibilities
 
@@ -90,7 +112,17 @@ https://phoenixnap.com/blog/devops-roles-responsibilities
 
 # CI/CD
 
+https://geekflare.com/devops-tools/
+
+https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-saltstack-or-cloudformation-7989dad2865c
+
 ### Jenkins
+
+### Travis CI
+
+### Circle CI
+
+### Bamboo (Atlassian)
 
 # Security
 
@@ -101,6 +133,8 @@ https://phoenixnap.com/blog/best-network-security-tools
 # Mobile
 
 ### Ionic
+
+### React Native
 
 # Network
 
@@ -113,3 +147,15 @@ https://phoenixnap.com/blog/best-network-security-tools
 ### Insomnia
 
 ### SoapUI
+
+# SaaS vs PaaS vs IaaS
+
+# Reference Websites
+
+https://geekflare.com/devops-tools/
+
+# Microservices
+
+https://dzone.com/articles/design-patterns-for-microservices
+
+https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41
