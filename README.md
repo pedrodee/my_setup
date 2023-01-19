@@ -152,6 +152,8 @@ https://phoenixnap.com/blog/best-network-security-tools
 
 # Reference Websites
 
+https://refactoring.guru/design-patterns
+
 https://geekflare.com/devops-tools/
 
 # Microservices
