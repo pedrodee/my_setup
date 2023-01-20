@@ -118,6 +118,8 @@ https://blog.gruntwork.io/why-we-use-terraform-and-not-chef-puppet-ansible-salts
 
 ### Jenkins
 
+### GitLab CI
+
 ### Travis CI
 
 ### Circle CI
