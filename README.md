@@ -40,7 +40,7 @@
 
 ### vmWare | VirtualBox
 
-### PhpStorm
+### JetBrains tools
 
 ### Visual Studio Code
 
@@ -132,11 +132,17 @@ https://phoenixnap.com/blog/best-network-security-tools
 
 ### CVE
 
-# Mobile
+# Mobile DEV
 
 ### Ionic
 
 ### React Native
+
+### Cordova
+
+# Desktop DEV
+
+### Electron
 
 # Network
 
